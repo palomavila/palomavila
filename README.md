@@ -5,6 +5,8 @@
 <a target="_blank" href="mailto:paloma.vilarins@gmail.com">
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 
+
+### About me
 Hi, my name is Paloma and I was born in São Paulo.
 
 I'm stutying both: Back-end and Front-end 💯
