@@ -7,7 +7,7 @@
 
 Hi, my name is Paloma and I was born in São Paulo.
 
-I'm stutying both: Back-end or Front-end 💯
+I'm stutying both: Back-end and Front-end 💯
 
 I love coding and I'm from Brazil 👩‍💻 Yes,I'm **25 years old** and studying Analysis and systems development.
 
